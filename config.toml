@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "https://blog.johnpyp.com"
 title = "Johnpyp Rambles"
 
 theme = "fuji"
